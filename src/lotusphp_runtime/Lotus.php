@@ -14,6 +14,7 @@ class Lotus
 	public $devMode = true;
 	public $defaultStoreDir;
 
+	protected $configHandle;
 	protected $proj_dir;
 	protected $app_dir;
 	protected $data_dir;
