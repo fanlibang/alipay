@@ -17,6 +17,6 @@
     },
     "autoload": {
         "psr-4": {"alipay\\": "src/"},
-        "files": ["src/aop/AopClient.php", "src/aop/request/AlipayFundTransToaccountTransferRequest.php"]
+        "files": ["src/AopSdk.php"]
     }
 }
